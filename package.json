@@ -1,0 +1,13 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
