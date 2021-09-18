@@ -1,2 +1,3 @@
 // yes no
-console.log("Hoo")
+console.log("Hello") ; // newsg ejejwk
+console.log("hii"); // yes yes
