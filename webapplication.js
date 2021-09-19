@@ -10,7 +10,7 @@ const con = mysql.createConnection({
     password: 'gopal9603',
     database: 'newtrial'
 });
-
+//hiii
 con.connect((err) => {
     if (err) throw err;
     console.log('Connected!');
